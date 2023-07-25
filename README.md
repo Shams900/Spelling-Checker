@@ -7,5 +7,6 @@ This method initializes the SpellChecker object with a dictionary of valid words
 This method takes a word as input and returns the two words that occur immediately before and after the input word in the dictionary, if they exist. If the input word is in the dictionary, an empty list is returned.
 3. add_word(self, word)
 This method adds a new word to the dictionary. The word should be provided as a string.
+
 Usage:
 To use the SpellChecker class, you can create a new instance of the class and pass your valid words. 
